@@ -17,10 +17,10 @@ This repository contains all the course content from my undergraduation course C
   <li>Questions</li>
   <ul>
     <li>
-      <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Mid%20Term/Practice%20Questions/OOP%20Practice%20Questions.pdf">OOP Practice Questions</a>
+      <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Exams/Mid%20Term/Practice%20Questions/OOP%20Practice%20Questions.pdf">OOP Practice Questions</a>
     </li>
     <li>
-     <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Mid%20Term/Practice%20Questions/Procedural%20Part%20Practice%20Questions.pdf">Procedural Part Practice Questions</a>
+     <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Exams/Mid%20Term/Practice%20Questions/Procedural%20Part%20Practice%20Questions.pdf">Procedural Part Practice Questions</a>
     </li>
   </ul>
   <li>Answers</li>
@@ -35,12 +35,12 @@ This repository contains all the course content from my undergraduation course C
   <li>Questions</li>
   <ul>
     <li>
-      <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Mid%20Term/Practice%20Questions/OOP%20Practice%20Questions.pdf">OOP Practice Questions</a>
+      <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Exams/Final/CSE111-Make-Up-Final-Question.pdf">Final Question</a>
     </li>
   </ul>
   <li>Answers</li>
   <ul>
-    <li><a href="https://colab.research.google.com/drive/1ozcLwjGijyLkYGH6UurO-9pXNfOI9XnM?usp=sharing">Answers</a></li>
+    <li><a href="https://github.com/danialcodes/CSE111/blob/main/Exams/Final/Md%20Danial%20Islam_20101534_01_Final%20Exam.ipynb">Answers</a></li>
   </ul>
 </ul>
 If you are here for learning, feel free to explore.
