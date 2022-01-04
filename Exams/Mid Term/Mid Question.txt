@@ -1,0 +1,98 @@
+𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 1:
+You are given a list of courses that are currently available in BRACU that 
+looks like the following:
+
+courses = ['CSE110','CSE111','MAT620','CSE520','EEE361','CSE650','MAT510'].
+
+All courses till 400 level (499) are for the undergraduate students whereas 
+any courses above 500 are for the graduate or masters students.
+
+Write a python program that creates a dictionary from the above list where 
+the keys will be each department name (CSE,EEE,MAT for the above example) 
+and their values will be a dictionary of two keys -
+Undergraduate Courses and Graduate Courses.
+
+Each key will have courses that fall in Undergraduate and Graduate level 
+respectively.
+
+Sample Input - No need to take input
+
+['CSE110','CSE111','MAT620','CSE520','EEE361','CSE650','MAT510']
+
+Sample Output: (You just have to print the resultant dictionary. No need to 
+follow the pattern below)
+
+{
+     'CSE':{
+         'Undergraduate':['CSE110','CSE111'],
+         'Graduate':['CSE520','CSE650']
+     },
+     'EEE':{
+         'Undergraduate':['EEE361'],
+         'Graduate':[]
+     },
+     'MAT':{
+         'Undergraduate':[],
+         'Graduate':['MAT510','MAT620']
+     }
+}
+
+𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 2:
+Write the Advising class so that the given code provides the expected 
+output. You can not change the given code.
+
+#Write your code here
+adv1 = Advising('Michael Scott',16100000)
+print("=================================")
+adv1.add_course('Office Management','Day1')
+print("=================================")
+adv1.advisor = 'David Wallace'
+adv1.add_course('Office Management','Day1')
+adv1.add_course('Employee Management','Day2')
+adv1.add_course('Intro to Best Boss','Day1')
+adv1.showDetails()
+print("=================================")
+adv1.show_exams()
+print("####################################")
+adv2 = Advising('Dwight Schrute',17100000,'Michael Scott')
+adv2.showDetails()
+print("=================================")
+adv2.show_exams()
+print("=================================")
+adv2.add_course('How to be Regional Manager','Day1')
+adv2.add_course('Farming','Day1')
+adv2.showDetails()
+print("=================================")
+adv2.show_exams()
+print("=================================")
+
+Expected Output:
+=================================
+Advisor not assigned. Assign advisor name first
+=================================
+Student Name: Michael Scott
+Advisor Name: David Wallace
+Courses of 16100000 - -
+Office Management
+Employee Management
+Intro to Best Boss
+=================================
+Exams of 16100000 - -
+Day1 ['Office Management', 'Intro to Best Boss']
+Day2 ['Employee Management']
+####################################
+Student Name: Dwight Schrute
+Advisor Name: Michael Scott
+No courses advised yet
+=================================
+No courses advised yet
+=================================
+Student Name: Dwight Schrute
+Advisor Name: Michael Scott
+Courses of 17100000 - -
+How to be Regional Manager
+Farming
+=================================
+Exams of 17100000 - -
+Day1 ['How to be Regional Manager', 'Farming']
+=================================
