@@ -1,0 +1,20 @@
+𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:
+Suppose you have a list of integers. Your task is to create a dictionary 
+which will have the index of the list as key and product from start to that 
+index as value. User will give a range and if you have to print the product 
+of the list from the start and ending index of the range using the created 
+dictionary.
+
+List = [3,1,5,4,6,7,8]
+Dictionary should be dict = {0:3, 1:3, 2:15, 3:60, 4:360, 5:2520, 6:20160}
+
+Sample Input:
+3,1,5,4,6,7,8
+2 4
+
+Sample Output:
+{0:3, 1:3, 2:15, 3:60, 4:360, 5:2520, 6:20160}
+120
+
+Hint: If you want to get the product from index 2 to 4, just divide the 
+dict[1] from dict[4] and you will get the required answer

@@ -1,0 +1,44 @@
+𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻:
+Write the Student class with the required methods to give the following 
+outputs as shown.
+
+# Write your codes here.
+
+# Do not change the following lines of code.
+s1 = Student()
+print("=================================")
+s1.addCourse(“CSE110”, “Computer Science”)
+print("=================================")
+s1.setName(“Bob”)
+s1.addCourse(“CSE110”, “Computer Science”)
+s1.printDetail()
+print("=================================")
+s2 = Student(“Carol”)
+s2.addCourse(“CSE111”, “Computer Science”)
+s2.addCourse(“MAT110”, “Mathematics”)
+print(=================================")
+s2.printDetail()
+s2.addCourse(“CSE230”, “Computer Science””)
+print("=================================")
+s2.printDetail()
+print("=================================")
+
+OUTPUT:
+=================================
+A course can not be added without student name
+=================================
+Number of Course(s): 1
+Student Name: Bob
+Computer Science: CSE110
+=================================
+=================================
+Number of Course(s): 2
+Student Name: Carol
+Computer Science: CSE111
+Mathematics: MAT110
+=================================
+Number of Course(s): 3
+Student Name: Carol
+Computer Science: CSE111, CSE230
+Mathematics: MAT110
+=================================
