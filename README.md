@@ -29,19 +29,29 @@ This repository contains all the course content from my undergraduation course C
   </ul>
 </ul>
 
+**Midterm Exam**
+
+<ul>
+  <li>
+      <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Exams/Final/CSE111-Make-Up-Final-Question.pdf">Final Question</a>
+    </li>
+    <li><a href="https://github.com/danialcodes/CSE111/blob/main/Exams/Final/Md%20Danial%20Islam_20101534_01_Final%20Exam.ipynb">Answers</a>
+  </li>
+</ul>
+
+
 **Final**
 
 <ul>
-  <li>Questions</li>
-  <ul>
-    <li>
-      <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Exams/Final/CSE111-Make-Up-Final-Question.pdf">Final Question</a>
-    </li>
-  </ul>
-  <li>Answers</li>
-  <ul>
-    <li><a href="https://github.com/danialcodes/CSE111/blob/main/Exams/Final/Md%20Danial%20Islam_20101534_01_Final%20Exam.ipynb">Answers</a></li>
-  </ul>
+  <li>
+      <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Exams/Final/CSE111-Make-Up-Final-Question.pdf">Final Question Summer 2021</a>
+   </li>
+   <li>
+     <a href="https://github.com/danialcodes/CSE111/blob/main/Exams/Final/Md%20Danial%20Islam_20101534_01_Final%20Exam.ipynb">Answers Summer 2021</a>
+   </li>
+  <li>
+     <a href="https://colab.research.google.com/drive/1FUg-bISN7t6ltzd6i8RbIYe-XjqWm27v?usp=sharing">Extra question and Answers Summer 2021</a>
+   </li>
 </ul>
 If you are here for learning, feel free to explore.
 Don't do any Plagiarism using the codes and materials. Learn to code. Just take the idea or approch
