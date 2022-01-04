@@ -29,6 +29,19 @@ This repository contains all the course content from my undergraduation course C
   </ul>
 </ul>
 
+**Final**
 
+<ul>
+  <li>Questions</li>
+  <ul>
+    <li>
+      <a target="_blank" href="https://github.com/danialcodes/CSE111/blob/main/Mid%20Term/Practice%20Questions/OOP%20Practice%20Questions.pdf">OOP Practice Questions</a>
+    </li>
+  </ul>
+  <li>Answers</li>
+  <ul>
+    <li><a href="https://colab.research.google.com/drive/1ozcLwjGijyLkYGH6UurO-9pXNfOI9XnM?usp=sharing">Answers</a></li>
+  </ul>
+</ul>
 If you are here for learning, feel free to explore.
 Don't do any Plagiarism using the codes and materials. Learn to code. Just take the idea or approch
