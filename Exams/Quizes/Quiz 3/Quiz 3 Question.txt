@@ -1,0 +1,36 @@
+Implement the design of the ECustomer​ ​class so that the following output is produced: [Your code should work for any number of products added in the setProductDetails method]
+
+Write your codes here.
+
+print("Total E-Customer:", ECustomer.count)
+c1 = ECustomer("James")
+c1.setProductDetails("TV",35000,"Air Cooler", 9000)
+c2 = ECustomer("Mike")
+c2.setProductDetails("Mobile",20000,"Headphone",1200,"Fridge", 45000)
+c3 = ECustomer("Sarah")
+c3.setProductDetails("Headphone", 1200)
+print("=========================")
+c1.printDetail()
+print("=========================")
+c2.printDetail()
+print("=========================")
+c3.printDetail()
+print("=========================")
+print("Total E-Customer:", ECustomer.count)
+Output:
+
+Total E-Customer: 0
+=========================
+Name: James
+Products: TV, Air Cooler
+Total cost: 44000
+=========================
+Name: Mike
+Products: Mobile, Headphone, Fridge
+Total cost: 66200
+=========================
+Name: Sarah
+Products: Headphone
+Total cost: 1200
+=========================
+Total E-Customer: 3
