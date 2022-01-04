@@ -3,8 +3,9 @@ Brac University CSE111 Summer2021
 
 This repository contains all the course content from my undergraduation course CSE111
 
-<strong><ul>Quizes</ul></strong>
+
 <ul>
+  <strong><ul>Quizes</ul></strong>
   <li><a href="https://colab.research.google.com/drive/1Ae7GiGsJbEp6s8LOjgQQT1ySZuRcgTBe?usp=sharing">Quiz 1</a></li>
   <li><a href="https://colab.research.google.com/drive/1CkeW6ZLr5KCB2IPqqSojcvrl1QiZoxIV?usp=sharing">Quiz 2</a></li>
   <li><a href="https://colab.research.google.com/drive/1DJP3EIBehkqdVvL1hmDBMfwZfdDT_7X_?usp=sharing">Quiz 3</a></li>
